@@ -27,49 +27,8 @@ Exemplo:
 ![Exemplo de Nome](exemplo_padrao.png)
 ***
 
-## Tecnologias
-Aprender algo novo nunca é perca de tempo. Essa é uma filosoifia de vida que tento aplicar para a minha, portanto sou aberto a aprender diferentes coisas. Porém, tenho tecnologias que sou mais familiarizado e trabalho melhor
-
-
-### Back-End
-As linguagem que mais utilizao atualmente é o **PHP**, utilizando juntamente com o seu framewoork que eu vou falar mais abaixo. Além dele, possuo conhecimentos para trabalhar com **nodejs** e **C#** 
-<br>
-
-<img align="center" alt="Logo-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"></li>
-<img align="center" alt="Logo-nodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></li>
-<img align="center" alt="Logo-c#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></li>
-
-
-#### Frameworks Back-End
-Dentre os principais posso citar a que mais estudo e estou empolgado, que é o **Laravel**. Em meus projeots, tem sido o framework mais utilizado
-<br>
-
-<img align="center" alt="Logo-Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></li>
-
-### Front-end
-Possuo conhecimentos avançados em **HTML**, **CSS** e **Javascript**. A trindade da Web está solida em meus conhecimentos, e juntas, se tornam ferramentas fantásticas em minhas mãos
-<br>
-
-<img align="center" alt="Logo-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></li>
-<img align="center" alt="Logo-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></li>
-<img align="center" alt="Logo-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></li>
-
-#### Ferramentas Front-end
-Dentre os principais ferramentas de Front-End que trabalho, posso citar o framework Js **VueJs**, que possui uma bela integração com o já citado **Laravel**. Além disso, utilizado o pré-compilador css **Sass**. Outra ferramenta que gosto de utilizar é o **Bootsrap**
-<br>
-
-<img align="center" alt="Logo-Vuejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></li>
-<img align="center" alt="Logo-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></li>
-<img align="center" alt="Logo-Bootsrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></li>
-<br>
-
-### Outras tecnologias
-Quanto a outras tecnologias, possuo conhecimentos avançados em **Git**, além de também conhecer **Docker**. Quanto os Databases que mais utilizo posso citar o **MySQL**
-<br>
-
-<img align="center" alt="Logo-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></li>
-<img align="center" alt="Logo-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"></li>
-<img align="center" alt="Logo-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"></li>
+### Projetos Pessoais
+Para os meus projetos pessoais eu sigo o mesmo padrão dos projetos de cursos, porém sem aos passos 4 e 5
 
 ***
 ## Entre em Contato
