@@ -25,7 +25,6 @@ Porém, em muitos desses cursos existem módulos especiais com projetos. Esses p
 
 Exemplo:
 ![Exemplo de Nome](exemplo_padrao.png)
-***
 
 ### Projetos Pessoais
 Para os meus projetos pessoais eu sigo o mesmo padrão dos projetos de cursos, porém sem aos passos 4 e 5
