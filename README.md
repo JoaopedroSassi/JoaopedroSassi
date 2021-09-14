@@ -10,10 +10,12 @@ Tenho apreço por tecnologia desde que consigo me lembrar. Estou sempre querendo
 - Atualmente cursando Análise e Desenvolvimento de Sistemas - FATEC SCS
 
 ## Como funciona meu Github
-Aqui no meu Github eu adoteio um estilo de repositórios. Basicamente meus repostórios seguem um padrão no nome, que seria:
+Aqui no meu Github eu adotei um estilo de repositórios. Basicamente meus repostórios seguem um padrão no nome, que seria:
 1. Nome do curso separado por underline
 2. Traço (-)
 3. Nome abreviado do provedor (EX: HC-Hora de Codar)
+
+Esses repositórios guadrarão todos os Exercícios e Desafios feitos no curso, mostrando como eu realmente os fiz. Quanto aos projetos:
 
 ### Projetos de Cursos
 Porém, em muitos desses cursos existem módulos especiais com projetos. Esses projetos tem seus próprios repositórios, e seguem o padrão:
