@@ -29,11 +29,11 @@ Exemplo:
 ![Exemplo de Nome](exemplo_padrao.png)
 
 ### Projetos Pessoais
-Para os meus projetos pessoais eu sigo o mesmo padrão dos projetos de cursos, porém sem aos passos 4 e 5
+Para os meus projetos pessoais eu sigo o mesmo padrão dos projetos de cursos, porém sem os passos 4 e 5
 
 ***
 ## Entre em Contato
-Caso queira entrar em contato, minhas redes sociais estão abaixo, basta clicar nos ícones, ou me mandar um E-Mail. Muito obrigado por chegar até aqui!
+Caso queira entrar em contato, minhas redes sociais estão abaixo, basta clicar nos ícones, ou me mandar um E-Mail.
 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-sassi-granado-4523441a8/" target="_blank"><img align="center" alt="Logo-Linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a> <a href="https://www.facebook.com/joaopedro.sassigranado/" target="_blank"><img align="center" alt="Logo-Fb" height="40" width="40"           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"></a>
 
