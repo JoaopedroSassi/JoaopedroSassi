@@ -18,7 +18,7 @@ Aqui no meu Github eu adotei um estilo de repositórios. Basicamente meus repost
 Esses repositórios guadrarão todos os Exercícios e Desafios feitos no curso, mostrando como eu realmente os fiz. Quanto aos projetos:
 
 ### Projetos de Cursos
-Porém, em muitos desses cursos existem módulos especiais com projetos. Esses projetos tem seus próprios repositórios, e seguem o padrão:
+Em muitos desses cursos existem módulos especiais com projetos. Esses projetos tem seus próprios repositórios, e seguem o padrão:
 1. PJ (Vem de Project)
 2. Traço (-)
 3. Nome do projeto 
