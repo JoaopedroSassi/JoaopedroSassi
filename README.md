@@ -24,6 +24,8 @@ Tal qual os repositórios de exercícios, os de projetos também seguem um padr�
 3. Nome do projeto 
 
 Exemplo:
+
+
 ![Exemplo de Nome](nome_padrao.png)
 
 ***
