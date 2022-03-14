@@ -1,6 +1,6 @@
 # Welcome
 
-Olá, me chamo **João Pedro Sassi Granado** e atualmente estou em busca de oportunidades de trabalho como desenvolvedor **Fullstack**
+Olá, me chamo **João Pedro Sassi Granado** e atualmente sou estagiário de desenvolvimento na **Prodam**
 ***
 
 ## Um pouco sobre mim
