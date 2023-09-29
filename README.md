@@ -1,6 +1,6 @@
 # Welcome
 
-Olá, me chamo **João Pedro Sassi Granado** e atualmente sou estagiário de desenvolvimento na **Prodam**
+Olá, me chamo **João Pedro Sassi Granado** e atualmente sou desenvolvedor júnior na **Consiglog**
 ***
 
 ## Um pouco sobre mim
