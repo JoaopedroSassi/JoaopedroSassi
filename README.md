@@ -7,7 +7,8 @@ Olá, me chamo **João Pedro Sassi Granado** e atualmente sou desenvolvedor jún
 Tenho apreço por tecnologia desde que consigo me lembrar. Estou sempre querendo aprender coisas novas, buscando aprimorar meus conhecimentos em tecnologia
 ### Formação Acadêmica
 - Técnico em Informática para Internet integrado ao EM - Etec MCM
-- Atualmente cursando Análise e Desenvolvimento de Sistemas - FATEC SCS
+- 3/6 cursado de Análise e Desenvolvimento de Sistemas - FATEC SCS
+- Atualmente cursando Desenvolvimento de Sofware Multiplaraforma - FATEC Mauá
 
 ## Repositórios com exercícios
 Aqui no meu Github eu adotei um estilo de repositórios. Basicamente meus repostórios seguem um padrão no nome, que seria:
